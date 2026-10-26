@@ -1,0 +1,10 @@
+activity,factor_value,factor_unit,gas_metric,geography,factor_year,source_name,source_url,notes
+grid_electricity,0.675,kg CO2/kWh,CO2,India,2025-26,Central Electricity Authority Version 22.0,https://cea.nic.in/api/cdm-report-version/view-pdf/en/82,Weighted average grid factor including renewable generation
+intracity_bus,0.015161,kg CO2/passenger-km,CO2,India intracity bus,2015,India GHG Program Road Transport Technical Paper,https://indiaghgp.org/sites/default/files/Road%20Transport%20Technical%20Paper.pdf,Intracity bus estimate only; not for intercity bus or BRTS
+rail_non_suburban,0.007837,kg CO2/passenger-km,CO2,Indian Railways non-suburban,2014-15,India GHG Program Rail Transport Factors,https://indiaghgp.org/sites/default/files/Rail%20Transport%20Emission.pdf,Older study estimate
+rail_suburban,0.007976,kg CO2/passenger-km,CO2,Indian Railways suburban,2014-15,India GHG Program Rail Transport Factors,https://indiaghgp.org/sites/default/files/Rail%20Transport%20Emission.pdf,Older study estimate
+food_beef,99.48,kg CO2e/kg,CO2e,Global average,2010,Poore and Nemecek 2018 via Our World in Data,https://ourworldindata.org/grapher/ghg-per-kg-poore?tab=table,Global mean; not India-specific
+food_milk,3.15,kg CO2e/kg,CO2e,Global average,2010,Poore and Nemecek 2018 via Our World in Data,https://ourworldindata.org/grapher/ghg-per-kg-poore?tab=table,Global mean; not India-specific
+food_peas,0.98,kg CO2e/kg,CO2e,Global average,2010,Poore and Nemecek 2018 via Our World in Data,https://ourworldindata.org/grapher/ghg-per-kg-poore?tab=table,Global mean; not India-specific
+food_poultry,9.87,kg CO2e/kg,CO2e,Global average,2010,Poore and Nemecek 2018 via Our World in Data,https://ourworldindata.org/grapher/ghg-per-kg-poore?tab=table,Global mean; not India-specific
+food_rice,4.45,kg CO2e/kg,CO2e,Global average,2010,Poore and Nemecek 2018 via Our World in Data,https://ourworldindata.org/grapher/ghg-per-kg-poore?tab=table,Global mean; not India-specific
